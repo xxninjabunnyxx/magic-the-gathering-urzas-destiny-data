@@ -1,0 +1,115 @@
+---
+object: card
+id: 0676d39e-229f-480b-874e-ff0cb8e335d8
+oracle_id: a95aa9ba-fa61-4a3d-a493-1ea790bd20ad
+multiverse_ids:
+- 15196
+mtgo_id: 13021
+mtgo_foil_id: 13022
+tcgplayer_id: 6187
+cardmarket_id: 10787
+name: Hulking Ogre
+lang: en
+released_at: '1999-06-07'
+uri: https://api.scryfall.com/cards/0676d39e-229f-480b-874e-ff0cb8e335d8
+scryfall_uri: https://scryfall.com/card/uds/87/hulking-ogre?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/0676d39e-229f-480b-874e-ff0cb8e335d8.jpg?1562443316
+  normal: https://cards.scryfall.io/normal/front/0/6/0676d39e-229f-480b-874e-ff0cb8e335d8.jpg?1562443316
+  large: https://cards.scryfall.io/large/front/0/6/0676d39e-229f-480b-874e-ff0cb8e335d8.jpg?1562443316
+  png: https://cards.scryfall.io/png/front/0/6/0676d39e-229f-480b-874e-ff0cb8e335d8.png?1562443316
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/0676d39e-229f-480b-874e-ff0cb8e335d8.jpg?1562443316
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/0676d39e-229f-480b-874e-ff0cb8e335d8.jpg?1562443316
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Ogre
+oracle_text: Hulking Ogre can't block.
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 44f17b37-dcf8-4239-baab-1efc00cd3480
+set: uds
+set_name: Urza's Destiny
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/44f17b37-dcf8-4239-baab-1efc00cd3480
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Auds&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/uds?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0676d39e-229f-480b-874e-ff0cb8e335d8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa95aa9ba-fa61-4a3d-a493-1ea790bd20ad&unique=prints
+collector_number: '87'
+digital: false
+rarity: common
+flavor_text: |-
+  "The Keldons' ogre campaign provided more body parts than my meager facility could properly use."
+  —Gatha, Tolarian renegade
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Hildebrandt & Tim Hildebrandt
+artist_ids:
+- 020f967b-0d2f-4166-aabe-901dba8bc7ec
+- caa7228c-f74c-4145-91fb-1af8d623c353
+illustration_id: 5fdef679-0cb3-4717-818f-2402973bc2e5
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 25369
+prices:
+  usd: '0.07'
+  usd_foil: '0.45'
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: '1.49'
+  tix: '0.11'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15196
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hulking+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hulking+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hulking+Ogre
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6187?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hulking+Ogre&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/13021?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

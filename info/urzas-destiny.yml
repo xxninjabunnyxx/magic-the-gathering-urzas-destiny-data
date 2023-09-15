@@ -1,0 +1,21 @@
+---
+object: set
+id: 44f17b37-dcf8-4239-baab-1efc00cd3480
+code: uds
+mtgo_code: ud
+arena_code: ud
+tcgplayer_id: 116
+name: Urza's Destiny
+uri: https://api.scryfall.com/sets/44f17b37-dcf8-4239-baab-1efc00cd3480
+scryfall_uri: https://scryfall.com/sets/uds
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Auds&unique=prints
+released_at: '1999-06-07'
+set_type: expansion
+card_count: 143
+printed_size: 143
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: usg
+block: Urza
+icon_svg_uri: https://svgs.scryfall.io/sets/uds.svg?1694404800
